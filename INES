@@ -1,0 +1,31 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Toupie Carton Cars</title>
+<meta charset="UTF-8">
+</head>
+
+<body style="font-family: Arial; text-align: center;">
+
+<h1>🚗 Toupie Carton Cars</h1>
+
+<p>Maquettes de voitures en carton faites à la main</p>
+
+<h2>Voiture 1</h2>
+<p>Prix : 250€</p>
+<a href="https://www.paypal.me/inestoupie7/250">
+<button>Acheter</button>
+</a>
+
+<h2>Voiture 2</h2>
+<p>Prix : 300€</p>
+<a href="https://www.paypal.me/inestoupie7/300">
+<button>Acheter</button>
+</a>
+
+<h2>Contact</h2>
+<p>Email : inestoupie7@gmail.com</p>
+
+</body>
+</html>
